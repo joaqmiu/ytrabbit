@@ -1,0 +1,31 @@
+{
+  "name": "ytrabbit",
+  "version": "1.0.9",
+  "author": "joaqmiu",
+  "main": "./lib/app.mjs",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/joaqmiu/ytrabbit.git"
+  },
+  "dependencies": {
+    "node-fetch": "^3.3.2",
+    "youtube-transcript": "^1.2.1"
+  },
+  "keywords": [
+    "transcription",
+    "summary",
+    "subtitle",
+    "video",
+    "ai",
+    "text",
+    "speech",
+    "easy",
+    "tools",
+    "automation",
+    "youtube",
+    "api",
+    "simple",
+    "fast",
+    "accurate"
+  ]
+}
