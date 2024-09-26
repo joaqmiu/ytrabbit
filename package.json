@@ -1,11 +1,11 @@
 {
   "name": "ytrabbit",
-  "version": "1.1.3",
+  "version": "1.1.4",
   "author": "joaqmiu",
   "main": "./lib/app.js",
   "repository": {
     "type": "git",
-    "url": "https://github.com/joaqmiu/ytrabbit.git"
+    "url": "git+https://github.com/joaqmiu/ytrabbit.git"
   },
   "dependencies": {
     "node-fetch": "^3.3.2",
@@ -26,7 +26,17 @@
     "api",
     "simple",
     "fast",
-    "accurate"
+    "accurate",
+    "translation",
+    "language",
+    "multilingual",
+    "youtube-summary",
+    "youtube-transcription",
+    "video-summary",
+    "speech-to-text",
+    "language-processing",
+    "natural-language"
   ],
+  "license": "MIT",
   "type": "module"
 }
