@@ -1,8 +1,8 @@
 {
   "name": "ytrabbit",
-  "version": "1.0.9",
+  "version": "1.1.3",
   "author": "joaqmiu",
-  "main": "./lib/app.mjs",
+  "main": "./lib/app.js",
   "repository": {
     "type": "git",
     "url": "https://github.com/joaqmiu/ytrabbit.git"
@@ -27,5 +27,6 @@
     "simple",
     "fast",
     "accurate"
-  ]
+  ],
+  "type": "module"
 }
