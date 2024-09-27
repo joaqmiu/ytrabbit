@@ -1,4 +1,4 @@
-# [Axios](https://www.npmjs.com/package/ytrabbit)
+# [ytrabbit](https://www.npmjs.com/package/ytrabbit)
 
 This package summarizes transcriptions of YouTube videos, with support for multiple languages.
 
